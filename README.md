@@ -27,6 +27,9 @@ pip install torch numpy opencv-python tqdm
 
 
 ## Data & Templates
+Download these two `.npz` file and move to the `./data`folder.
+[Source link](https://drive.google.com/drive/folders/1nK64eovg86SuUiTtTf8I__IknvXXVgHE?usp=sharing)
+
 
 This repo provides:
 
@@ -105,6 +108,10 @@ After this process, run code below.
 ```
 python generate_map.py
 ```
+
+
+## ETC
+We referred to [CvHadesSun's repo](https://github.com/CvHadesSun/FLame2SMPLX) for the `file_op` module and the basic conversion algorithm. Thanks for the great work!
 
 
 ## Bibtex
