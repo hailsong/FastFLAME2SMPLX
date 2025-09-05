@@ -214,15 +214,9 @@ __marimo__/
 
 # Data: keep only precomputed grids
 /data/*
-!/data/flame_smplx_uv_grid.npz
-!/data/smplx_flame_uv_grid.npz
-!/data/.gitkeep     # keep empty dirs
 
 # Input: keep only selected samples
 /input/*
 !/input/smplx_sample_1.png
 !/input/song.png
 !/input/.gitkeep
-
-data/flame_smplx_uv_grid.npz
-data/smplx_flame_uv_grid.npz
