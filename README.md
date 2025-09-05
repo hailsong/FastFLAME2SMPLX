@@ -27,7 +27,7 @@ pip install torch numpy opencv-python tqdm
 
 
 ## Data & Templates
-Download these two `.npz` file and move to the `./data`folder.
+Download these two `.npz` files and move to the `./data`folder.
 [Source link](https://drive.google.com/drive/folders/1nK64eovg86SuUiTtTf8I__IknvXXVgHE?usp=sharing)
 
 
