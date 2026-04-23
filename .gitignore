@@ -213,7 +213,7 @@ __marimo__/
 !/output/.gitkeep   # keep empty dir
 
 # Data: keep only precomputed grids
-/data/*
+/data/*.npz
 
 # Input: keep only selected samples
 /input/*
